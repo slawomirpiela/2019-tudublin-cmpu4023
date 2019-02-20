@@ -1,1 +1,1 @@
-The screenshots and walkthrough of my lab work is in the Questions.docx file
+The screenshots and walkthrough of my lab work is in the Screenshots.docx file
